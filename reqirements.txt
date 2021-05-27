@@ -1,0 +1,14 @@
+certifi==2020.12.5
+chardet==4.0.0
+Django==2.2.23
+djangorestframework==3.12.4
+docker==4.4.4
+idna==2.10
+psycopg2==2.8.6
+pytz==2021.1
+pywin32==227
+requests==2.25.1
+six==1.16.0
+sqlparse==0.4.1
+urllib3==1.26.4
+websocket-client==0.59.0
